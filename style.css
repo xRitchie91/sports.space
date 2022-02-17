@@ -1,0 +1,11 @@
+header, body, footer {
+    color: skyblue;
+    align-content: center;
+    background-color: black;
+}
+
+
+h1, h2, h3 {
+    color: navy;
+}
+
