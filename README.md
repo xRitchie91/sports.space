@@ -1,2 +1,2 @@
-# sports.space
+# Sports Space
 a sports website
